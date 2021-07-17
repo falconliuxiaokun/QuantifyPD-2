@@ -1,4 +1,4 @@
-# quantifyPD-2
+# QuantifyPD-2
 This is part 2 that requires the excel results from quantifyPD-1
 
 Excel
